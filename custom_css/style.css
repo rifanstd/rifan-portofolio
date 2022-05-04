@@ -1,8 +1,16 @@
+body {
+	min-height: 2000px;
+}
+
 .custom-navbar-bg {
 	background-color: #112B3C;
 }
 
 .jumbotron-custom {
-	padding: 2rem 1rem;
+	padding-top: 2rem;
+	background-color: #EFEFEF;
+}
+
+.project-custom {
 	background-color: #EFEFEF;
 }
